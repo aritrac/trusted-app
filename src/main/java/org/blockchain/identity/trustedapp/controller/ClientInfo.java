@@ -1,4 +1,4 @@
-package org.blockchain.identity.trustedapp.rest;
+package org.blockchain.identity.trustedapp.controller;
 
 public class ClientInfo {
     private String email;
